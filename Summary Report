@@ -1,0 +1,7 @@
+Average length of stay = 2 days
+Total cost is higher for higher age groups 
+Emergency admissions have higher charges
+
+
+Note** # create a bar plot for age_group, gender, and type_of_admission 
+kept getting dadtatype error
