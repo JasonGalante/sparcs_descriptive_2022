@@ -161,4 +161,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+# added csv
 *.csv
+C:\Users\grift\sparcs_descriptive_2022\Hospital_Inpatient_Discharges__SPARCS_De-Identified___2022_20241013.csv
